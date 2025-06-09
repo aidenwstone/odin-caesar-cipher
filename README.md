@@ -1,1 +1,2 @@
 # odin-caesar-cipher
+This is a simple program created as part of The Odin Project. I will use the Ruby basics I have learned so far to code a caesar cipher function which takes a string and a shift factor, outputting the ciphered version.
